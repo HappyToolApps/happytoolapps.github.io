@@ -1,0 +1,3 @@
+Atom app will not collect any personal information, such as you name, gendar, address, etc.
+Atom app only collect android id (SSAID) to identify the device. This device id will change if you reset your device. Also, the device id can be deleted if you provide your device id via email.
+Atom app can run without any other anndroid permission except network.
